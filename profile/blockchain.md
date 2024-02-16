@@ -16,16 +16,7 @@ Here are some of our open source projects in the blockchain space. We've also do
 * [SOL-ETH Bridge](https://github.com/obsidiansystems/solana-bridges) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square) ![Built with Haskell](https://img.shields.io/badge/haskell-purple?style=flat-square) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 
 
-## 📒 Ledger Apps, Tools, and Plugins
-* [Kadena Ledger App: ledger-app-kadena](https://github.com/obsidiansystems/ledger-app-kadena) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
-* [POKT Ledger App: ledger-app-pocket](https://github.com/obsidiansystems/ledger-app-pocket) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
-* [Sui Ledger App: ledger-app-sui](https://github.com/obsidiansystems/ledger-app-sui) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
-* [Provenance Ledger App: ledger-app-provenance](https://github.com/obsidiansystems/ledger-app-provenance) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
-* [Nervos Ledger Plugin for CKB-CLI: ckb-plugin-ledger](https://github.com/obsidiansystems/ckb-plugin-ledger) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
-* [Nervos Ledger App: ledger-app-nervos](https://github.com/obsidiansystems/ledger-app-nervos) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
-* [Avalanche Ledger App (AVAX): ledger-app-avalanche](https://github.com/obsidiansystems/ledger-app-avalanche) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
-* [Tezos Ledger App: ledger-app-tezos](https://github.com/obsidiansystems/ledger-app-tezos) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
-* [Ledger Hardware Wallet JavaScript Bindings for Avalanche: hw-app-avalanche](https://github.com/obsidiansystems/hw-app-avalanche) ![Built with JavaScript](https://img.shields.io/badge/JS-green?style=flat-square)
+## 📒 Ledger App Development Platform
 * [Alamgu Ledger App Build Infrastructure: alamgu](https://github.com/alamgu/alamgu) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
 * [Alamgu Example Ledger App: alamgu-example](https://github.com/alamgu/alamgu-example) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 * [Ledger Parser Combinators: ledger-parser-combinators](https://github.com/alamgu/ledger-parser-combinators) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
@@ -39,8 +30,24 @@ Here are some of our open source projects in the blockchain space. We've also do
 * [Trie datastructure: trie-enum](https://github.com/alamgu/trie-enum) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 * [Derive macro for enums: enum-init](https://github.com/alamgu/enum-init) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 * [LLVM pass for Ledger's PIC strategy: llvm-ledger-ropi](https://github.com/alamgu/llvm-ledger-ropi) ![Built with C++](https://img.shields.io/badge/C++-blue?style=flat-square)
-* [JS bindings for the Kadena Ledger App](https://github.com/obsidiansystems/hw-app-kda) ![Built with TypeScript](https://img.shields.io/badge/TS-blue?style=flat-square)
+
+## 🔑 Ledger Apps
+### Sui
+* [SUI Ledger App: ledger-app-sui](https://github.com/obsidiansystems/ledger-app-sui) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
+* [JS bindings for the SUI Ledger App](https://github.com/obsidiansystems/hw-app-sui) ![Built with TypeScript](https://img.shields.io/badge/TS-blue?style=flat-square)
+### Pocket
+* [POKT Ledger App: ledger-app-pocket](https://github.com/obsidiansystems/ledger-app-pocket) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 * [JS bindings for the POKT Ledger App](https://github.com/obsidiansystems/hw-app-pokt) ![Built with TypeScript](https://img.shields.io/badge/TS-blue?style=flat-square)
-* [JS bindings for the Provenance Ledger App](https://github.com/obsidiansystems/hw-app-hash) ![Built with TypeScript](https://img.shields.io/badge/TS-blue?style=flat-square)
-* [JS bindings for the Avalanche Ledger App](https://github.com/obsidiansystems/hw-app-avalanche) ![Built with JavaScript](https://img.shields.io/badge/JS-green?style=flat-square)
+### Kadena
+* [KDA Ledger App: ledger-app-kadena](https://github.com/obsidiansystems/ledger-app-kadena) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
+* [JS bindings for the KDA Ledger App](https://github.com/obsidiansystems/hw-app-kda) ![Built with TypeScript](https://img.shields.io/badge/TS-blue?style=flat-square)
+### Avalanche
+* [AVAX Ledger App: ledger-app-avalanche](https://github.com/obsidiansystems/ledger-app-avalanche) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
+* [JS bindings for the AVAX Ledger App](https://github.com/obsidiansystems/hw-app-avalanche) ![Built with JavaScript](https://img.shields.io/badge/JS-green?style=flat-square)
 * [Avalanche Wallet CLI](https://github.com/obsidiansystems/avalanche-wallet-cli) ![Built with JavaScript](https://img.shields.io/badge/JS-green?style=flat-square)
+### Provenance
+* [HASH Ledger App: ledger-app-provenance](https://github.com/obsidiansystems/ledger-app-kadena) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
+* [JS bindings for the HASH Ledger App](https://github.com/obsidiansystems/hw-app-hash) ![Built with TypeScript](https://img.shields.io/badge/TS-blue?style=flat-square)
+### Nervos
+* [CKB Ledger App: ledger-app-nervos](https://github.com/obsidiansystems/ledger-app-nervos) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
+* [Ledger Plugin for CKB-CLI: ckb-plugin-ledger](https://github.com/obsidiansystems/ckb-plugin-ledger) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
