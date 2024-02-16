@@ -18,7 +18,7 @@ We're also the primary authors and maintainers of:
 * [Nervos Ledger App: ledger-app-nervos](https://github.com/obsidiansystems/ledger-app-nervos) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
 * [Avalanche Ledger App (AVAX): ledger-app-avalanche](https://github.com/obsidiansystems/ledger-app-avalanche) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
 * [Tezos Ledger App: ledger-app-tezos](https://github.com/obsidiansystems/ledger-app-tezos) ![Built with C](https://img.shields.io/badge/C-blue?style=flat-square)
-* [Ledger Hardware Wallet JavaScript Bindings for Avalanche: hw-app-avalanche] ![Built with JavaScript](https://img.shields.io/badge/JS-green?style=flat-square)
+* [Ledger Hardware Wallet JavaScript Bindings for Avalanche: hw-app-avalanche](https://github.com/obsidiansystems/hw-app-avalanche) ![Built with JavaScript](https://img.shields.io/badge/JS-green?style=flat-square)
 * [Alamgu Ledger App Build Infrastructure: alamgu](https://github.com/alamgu/alamgu) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
 * [Alamgu Example Ledger App: alamgu-example](https://github.com/alamgu/alamgu-example) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 * [Ledger Parser Combinators: ledger-parser-combinators](https://github.com/alamgu/ledger-parser-combinators) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
