@@ -9,6 +9,7 @@ Here are some of our open source projects in the blockchain space. We've also do
 * [DAML Smart contract testing: daml-cucumber 🥒](https://github.com/obsidiansystems/daml-cucumber) ![Built with Haskell](https://img.shields.io/badge/haskell-purple?style=flat-square) ![Built with DAML](https://img.shields.io/badge/daml-1D345D?style=flat-square)
 
 ## 🏗️ Infrastructure
+* [Hydra Pay for Cardano L2](https://github.com/obsidiansystems/hydra-pay) ![Built with Haskell](https://img.shields.io/badge/haskell-purple?style=flat-square)
 * [Polygon Nodes in Nix](https://github.com/obsidiansystems/polygon-nix) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
 * [IPFS x Nix](https://github.com/obsidiansystems/ipfs-nix-guide) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
 * [DAML SDK in Nix](https://github.com/obsidiansystems/nix-daml-sdk) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
