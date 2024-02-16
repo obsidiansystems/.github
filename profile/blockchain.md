@@ -1,6 +1,6 @@
-# ⛓️ Open Source Blockchain Projects by Obsidian Systems
+# ⛓️ Blockchain Projects by Obsidian Systems
 
-We've also done a lot of closed-source work. You can learn more about that work at [our website](https://obsidian.systems).
+Here are some of our open source projects in the blockchain space. We've also done a lot of closed-source work, which you can learn more about at [our website](https://obsidian.systems).
 
 ## 📃 Smart Contracts, DApps
 * [Syndicated Loans in DAML](https://github.com/obsidiansystems/daml-syndicated-loan) ![Built with DAML](https://img.shields.io/badge/daml-1D345D?style=flat-square)
