@@ -42,6 +42,7 @@
 
 ### 📱 Cross-platform
 * [obelisk-ios-libfrontend](https://github.com/obsidiansystems/obelisk-ios-libfrontend): Compile your obelisk frontend as a C library that can be used with an XCode project.
+* [android-activity](https://github.com/obsidiansystems/android-activity): embed a haskell application in an android app as an Android Activity.
 
 ### 🧬 Datastructures
 * [patch](https://github.com/reflex-frp/patch): Data structures for describing changes to other data structures.
