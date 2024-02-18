@@ -23,7 +23,7 @@ We do a lot of open source work, so we've tried to organize the repos below:
     * [📡 API](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-api)
     * [📱 Cross-platform](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-cross-platform)
     * [🧬 Datastructures](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-datastructures)
-    * [🪝 Integrations](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-datastructures)
+    * [🪝 Integrations](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-integrations)
 
 ### [⛓️ Blockchain Projects by Obsidian Systems](https://github.com/obsidiansystems/.github/blob/main/profile/blockchain.md#%EF%B8%8F-blockchain-projects-by-obsidian-systems)
   * [📃 Smart Contracts, DApps](https://github.com/obsidiansystems/.github/blob/main/profile/blockchain.md#-smart-contracts-dapps)
