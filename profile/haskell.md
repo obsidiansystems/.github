@@ -1,5 +1,7 @@
 # λ Building Apps in Haskell
 
+We've built a lot of applications in Haskell, and along the way we've contributed lots of reusable parts to the Haskell ecosystem.
+
 ## 🖼️ Full-Stack Framework
 * [obelisk](https://github.com/obsidiansystems/obelisk): full-stack haskell applications
 
