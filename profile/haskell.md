@@ -10,7 +10,8 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [reflex-dom](https://github.com/reflex-frp/reflex-dom): DOM-based FRP GUIs
 
 ## ⌨️ TUIs & CLIs
-* [reflex-vty](https://github.com/reflex-frp/reflex-vty): Build terminal apps with FRP 
+* [reflex-vty](https://github.com/reflex-frp/reflex-vty): Build terminal apps with FRP
+* [cli-extras](https://github.com/obsidiansystems/cli-extras): Tools for writing CLIs, including logging, process management, and printing to the terminal
 
 ## 🏗️ Infrastructure & Tools
 * [reflex-platform](https://github.com/reflex-frp/reflex-platform/): Nix tooling to build multi-platform Haskell apps
