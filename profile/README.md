@@ -11,6 +11,13 @@ We're the primary authors and maintainers of:
 
 We do a lot of open source work, so we've tried to organize the repos below:
 
+### [🧰 Nix Ecosystem and Infra](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix-ecosystem-and-infra)
+  * [🪐 Nix + InterPlanetary File System](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--interplanetary-file-system)
+  * [🦀 Nix + Rust Toolchain for Hardware Wallets](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--rust-toolchain-for-hardware-wallets)
+  * [λ Nix + Haskell](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#%CE%BB-nix--haskell)
+  * [🔐 Nix + Security](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--security)
+  * [🧺 Nix + Miscellaneous](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--miscellaneous)
+
 ### [λ Building Apps in Haskell](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md)
   * [🖼️ Full-Stack Framework](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#%EF%B8%8F-full-stack-framework)
   * [🖱️ GUIs](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#%EF%B8%8F-guis)
