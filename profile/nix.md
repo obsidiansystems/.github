@@ -10,6 +10,9 @@ We've been working to add [IPFS support to Nix](https://github.com/obsidiansyste
 ## 🦀 Nix + Rust Toolchain for Hardware Wallets
 [alamgu](https://github.com/alamgu/alamgu) is a Nix toolchain for writing Ledger hardware wallet applications in Rust. We originally did all our hardware wallet applications in C, and were the first to take advantage of Rust support for Ledger. We needed security and the ability to target a very specific set of devices, and for both of these criteria nix was a great fit.
 
+## 📁 Super Colliding Nix Stores
+Creates a [local-overlay Nix store](https://github.com/NixOS/rfcs/pull/152) from multiple local and daemon stores. Done in [collaboration with Repl.it and Tweag](https://discourse.nixos.org/t/super-colliding-nix-stores/28462).
+
 ## λ Nix + Haskell
 We use Haskell for a lot of our projects and on a lot of platforms. Nix makes this possible. We use nix to manage developer environments, deployments, and to facilitate cross-platform builds. Most of our work on cross-compilation has been merged into nixpkgs itself.
 * [reflex-platform](https://github.com/reflex-frp/reflex-platform): Nix toolchain for cross-platform haskell projects.
@@ -18,9 +21,6 @@ We use Haskell for a lot of our projects and on a lot of platforms. Nix makes th
 
 ## 🔐 Nix + Security
 We're part of the Nix Security Working Group, and have contributed to the [nix-security-tracker](https://github.com/Nix-Security-WG/nix-security-tracker) project.
-
-## 📁 Super Colliding Nix Stores
-Creates a [local-overlay Nix store](https://github.com/NixOS/rfcs/pull/152) from multiple local and daemon stores. Done in [collaboration with Repl.it and Tweag](https://discourse.nixos.org/t/super-colliding-nix-stores/28462). 
 
 ## 🧺 Nix + Miscellaneous
 Even when using other package management systems or build tools, we try to use them via Nix so that things stay consistent and reproducible.
