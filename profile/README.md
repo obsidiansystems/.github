@@ -14,6 +14,7 @@ We do a lot of open source work, so we've tried to organize the repos below:
 ### [🧰 Nix Ecosystem and Infra](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix-ecosystem-and-infra)
   * [🪐 Nix + InterPlanetary File System](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--interplanetary-file-system)
   * [📁 Super Colliding Nix Stores / Layered Store](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-super-colliding-nix-stores)
+  * [📲 Cross-Compilation](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-cross-compilation)
   * [🦀 Nix + Rust Toolchain for Hardware Wallets](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--rust-toolchain-for-hardware-wallets)
   * [λ Nix + Haskell](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#%CE%BB-nix--haskell)
   * [🔐 Nix + Security](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--security)
