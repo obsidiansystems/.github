@@ -11,7 +11,10 @@ We've been working to add [IPFS support to Nix](https://github.com/obsidiansyste
 [alamgu](https://github.com/alamgu/alamgu) is a Nix toolchain for writing Ledger hardware wallet applications in Rust. We originally did all our hardware wallet applications in C, and were the first to take advantage of Rust support for Ledger. We needed security and the ability to target a very specific set of devices, and for both of these criteria nix was a great fit.
 
 ## 📁 Super Colliding Nix Stores
-Creates a [local-overlay Nix store](https://github.com/NixOS/rfcs/pull/152) from multiple local and daemon stores. Done in [collaboration with Repl.it and Tweag](https://discourse.nixos.org/t/super-colliding-nix-stores/28462).
+We've been working with [Repl.it and Tweag](https://discourse.nixos.org/t/super-colliding-nix-stores/28462) to make it possible to merge local and remote nix stores. Take a look at the [local-overlay Nix store RFC](https://github.com/NixOS/rfcs/pull/152) for more on this.
+
+## 📲 Cross-Compilation
+We led the complete rewrite and upstreaming of the core [cross compilation](https://nixos.org/manual/nixpkgs/stable/#chap-cross) infrastructure in nixpkgs. A great many projects are now using this foundation to cross-compile to a variety of platforms via nix!
 
 ## λ Nix + Haskell
 We use Haskell for a lot of our projects and on a lot of platforms. Nix makes this possible. We use nix to manage developer environments, deployments, and to facilitate cross-platform builds. Most of our work on cross-compilation has been merged into nixpkgs itself.
@@ -29,4 +32,3 @@ Even when using other package management systems or build tools, we try to use t
 * [nix-daml-sdk](https://github.com/obsidiansystems/nix-daml-sdk): Packaging of the daml sdk, canton infrastrucutre, and related tools.
 * [polygon-nix](https://github.com/obsidiansystems/polygon-nix): Run polygon nodes via nix.
 * [nix-thunk](https://github.com/obsidiansystems/nix-thunk): A lightweight Nix dependency manager designed to make it easy to contribute improvements to dependencies upstream.
-* [cross compilation](https://nixos.org/manual/nixpkgs/stable/#chap-cross): Cross compile Nix projects for multiple platforms.
