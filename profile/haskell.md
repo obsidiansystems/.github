@@ -17,6 +17,7 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [reflex-platform](https://github.com/reflex-frp/reflex-platform/): Nix tooling to build multi-platform Haskell apps
 * [reflex-ghci](https://github.com/reflex-frp/reflex-ghci): Run GHCi from within a Reflex FRP application and interact with it using a functional reactive interface.
 * [gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
+* [openapi-hs-generator](https://github.com/obsidiansystems/openapi-hs-generator): Nix wrapper for the openapi generator CLI tool to automatically generate haskell bindngs from openapi specifications.
 
 ## 🧑‍🏫 Examples
 * [reflex-examples](https://github.com/reflex-frp/reflex-examples): See Reflex FRP in action with tinker-friendly code samples you can run yourself.
