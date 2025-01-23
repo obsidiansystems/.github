@@ -68,3 +68,4 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [obelisk-google-analytics](https://github.com/obsidiansystems/obelisk-google-analytics): Google Analytics for Obelisk apps.
 * [haven](https://github.com/obsidiansystems/haven): Use haskell to produce a nix set of maven dependencies
 * [gitea-api](https://github.com/obsidiansystems/gitea-api): Gitea API bindings for Haskell
+* [vikunja-api](https://github.com/obsidiansystems/vikunja-api): [Vikunja](https://vikunja.io/) API bindings for Haskell
