@@ -21,6 +21,7 @@ We use Haskell for a lot of our projects and on a lot of platforms. Nix makes th
 * [reflex-platform](https://github.com/reflex-frp/reflex-platform): Nix toolchain for cross-platform haskell projects.
 * [splices-load-save.nix](https://github.com/obsidiansystems/splces-load-save.nix): Automated template-haskell splices for platforms that don't support TH.
 * [obelisk-systemd](https://github.com/obsidiansystems/obelisk-systemd): Run an [obelisk](https://github.com/obsidiansystems/obelisk) project as a systemd service
+* [openapi-hs-generator](https://github.com/obsidiansystems/openapi-hs-generator): Generate haskell API bindings from Swagger/OpenAPI specifications via Nix
 
 ## 🔐 Nix + Security
 We're part of the Nix Security Working Group, and have contributed to the [nix-security-tracker](https://github.com/Nix-Security-WG/nix-security-tracker) project.
