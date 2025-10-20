@@ -24,6 +24,7 @@ We do a lot of open source work, so we've tried to organize the repos below:
   * [🖼️ Full-Stack Framework](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#%EF%B8%8F-full-stack-framework)
   * [🖱️ GUIs](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#%EF%B8%8F-guis)
   * [⌨️ TUIs & CLIs](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#%EF%B8%8F-tuis--clis)
+  * [🌍 Browser Extensions](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-browser-extensions)
   * [🏗️ Infrastructure & Tools](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#%EF%B8%8F-infrastructure--tools)
   * [🧑‍🏫 Examples](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-examples)
   * [📚 Libraries](https://github.com/obsidiansystems/.github/blob/main/profile/haskell.md#-libraries)
