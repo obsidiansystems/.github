@@ -13,6 +13,10 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [reflex-vty](https://github.com/reflex-frp/reflex-vty): Build terminal apps with FRP
 * [cli-extras](https://github.com/obsidiansystems/cli-extras): Tools for writing CLIs, including logging, process management, and printing to the terminal
 
+## 🌍 Browser Extensions
+* [browser-extension](https://github.com/obsidiansystems/browser-extension): Build browser extensions with Haskell and FRP
+* [obelisk-browser-extension-example](https://github.com/obsidiansystems/obelisk-browser-extension-example): Use obelisk to run a browser-extension simulator and development environment
+
 ## 🏗️ Infrastructure & Tools
 * [reflex-platform](https://github.com/reflex-frp/reflex-platform/): Nix tooling to build multi-platform Haskell apps
 * [reflex-ghci](https://github.com/reflex-frp/reflex-ghci): Run GHCi from within a Reflex FRP application and interact with it using a functional reactive interface.
