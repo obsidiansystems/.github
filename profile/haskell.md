@@ -64,6 +64,7 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [higher-kinded](https://github.com/obsidiansystems/higher-kinded): Higher kinded data types
 
 ### 🪝 Integrations
+* [jsdom-extras](https://github.com/obsidiansystems/jsdom-extras): Handy javascript <-> haskell interop functions
 * [haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned): Haskell library that uses the HIBP breach database to evaluate passwords
 * [dombuilder-pandoc](https://github.com/obsidiansystems/dombuilder-pandoc): Convert Pandoc documents into reflex-dom nodes.
 * [echarts-jsdom](https://github.com/obsidiansystems/echarts-jsdom): Bindings for the echarts.js library for use with GHCJS.
