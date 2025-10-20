@@ -61,6 +61,7 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [dependent-map](https://github.com/obsidiansystems/dependent-map): Dependently-typed finite maps (partial dependent products)
 * [vessel 🍶](https://github.com/obsidiansystems/vessel): Functor-parametric containers
 * [aeson-gadt-th](https://github.com/obsidiansystems/aeson-gadt-th): Template Haskell for generating ToJSON and FromJSON instances for GADTs
+* [higher-kinded](https://github.com/obsidiansystems/higher-kinded): Higher kinded data types
 
 ### 🪝 Integrations
 * [haveibeenpwned](https://github.com/obsidiansystems/haveibeenpwned): Haskell library that uses the HIBP breach database to evaluate passwords
