@@ -55,7 +55,7 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 ### 🧬 Datastructures
 * [patch](https://github.com/reflex-frp/patch): Data structures for describing changes to other data structures.
 * [dependent-sum-template](https://github.com/obsidiansystems/dependent-sum-template): Template Haskell code to generate instances of classes found in the `some` package
-* [commutative-semigroups](https://github.com/obsidiansystems/commutative-semigroups): semigroup where the order of arguments to mappend does not matter
+* [commutative-semigroups](https://github.com/obsidiansystems/commutative-semigroups): Semigroup where the order of arguments to mappend does not matter
 * [constraints-extras](https://github.com/obsidiansystems/constraints-extras): Convenience functions for working with constraints
 * [dependent-sum](https://github.com/obsidiansystems/dependent-sum): Dependent sums and supporting typeclasses for comparing and displaying them
 * [dependent-map](https://github.com/obsidiansystems/dependent-map): Dependently-typed finite maps (partial dependent products)
