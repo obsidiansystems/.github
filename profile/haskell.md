@@ -62,6 +62,7 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [vessel 🍶](https://github.com/obsidiansystems/vessel): Functor-parametric containers
 * [aeson-gadt-th](https://github.com/obsidiansystems/aeson-gadt-th): Template Haskell for generating ToJSON and FromJSON instances for GADTs
 * [higher-kinded](https://github.com/obsidiansystems/higher-kinded): Higher kinded data types
+* [agate](https://github.com/obsidiansystems/agate): Petri nets, ordinary differential equations and dynamical systems
 
 ### 🪝 Integrations
 * [jsdom-extras](https://github.com/obsidiansystems/jsdom-extras): Handy javascript <-> haskell interop functions
