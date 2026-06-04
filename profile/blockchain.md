@@ -12,7 +12,7 @@ Here are some of our open source projects in the blockchain space. We've also do
 * [Hydra Pay for Cardano L2](https://github.com/obsidiansystems/hydra-pay) ![Built with Haskell](https://img.shields.io/badge/haskell-purple?style=flat-square)
 * [Polygon Nodes in Nix](https://github.com/obsidiansystems/polygon-nix) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
 * [IPFS x Nix](https://github.com/obsidiansystems/ipfs-nix-guide) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
-* [DAML SDK in Nix](https://github.com/obsidiansystems/nix-daml-sdk) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
+* [DAML SDK in Nix](https://github.com/obsidiansystems/nix-daml-sdk) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square) ![Built with DAML](https://img.shields.io/badge/daml-1D345D?style=flat-square)
 * [IPFS Plugin for Software Heritage IDs](https://github.com/obsidiansystems/go-ipfs-swh-plugin) ![Built with Go](https://img.shields.io/badge/go-lightgreen?style=flat-square) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square)
 * [SOL-ETH Bridge](https://github.com/obsidiansystems/solana-bridges) ![Built with Nix](https://img.shields.io/badge/nix-lightblue?style=flat-square) ![Built with Haskell](https://img.shields.io/badge/haskell-purple?style=flat-square) ![Built with Rust](https://img.shields.io/badge/rust-brown?style=flat-square)
 
