@@ -2,14 +2,14 @@
 
 We're a software consultancy specializing in building great products on technologies that promote quality and rapid iteration. Check us out at https://obsidian.systems
 
-Welcome to our github page. Here you'll find some of our open source work, primarily in [Nix](https://github.com/orgs/obsidiansystems/repositories?q=lang:nix&type=all), [Haskell](https://github.com/orgs/obsidiansystems/repositories?q=lang:haskell&type=all), and [Rust](https://github.com/orgs/obsidiansystems/repositories?q=lang:rust&type=all). 
+Welcome to our github page. Here you'll find some of our open source work, primarily in [Nix](https://github.com/orgs/obsidiansystems/repositories?q=lang:nix&type=all), [Haskell](https://github.com/orgs/obsidiansystems/repositories?q=lang:haskell&type=all), [Daml](https://github.com/orgs/obsidiansystems/repositories?q=lang:daml&type=all), and [Rust](https://github.com/orgs/obsidiansystems/repositories?q=lang:rust&type=all). 
 
 We're the primary authors and maintainers of:
 * [reflex-frp](https://github.com/reflex-frp), an ecosystem for functional reactive programming
 * [obelisk](https://github.com/obsidiansystems/obelisk), a framework and tool for full-stack Haskell applications
 * [alamgu](https://github.com/alamgu), an ecosystem for building hardware ledger applications
 
-We do a lot of open source work, so we've tried to organize the repos below:
+We're actively involved in Haskell, Nix, and Canton governance, and do a lot of open source work. We've tried to organize our repos below:
 
 ### [🧰 Nix Ecosystem and Infra](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix-ecosystem-and-infra)
   * [🪐 Nix + InterPlanetary File System](https://github.com/obsidiansystems/.github/blob/main/profile/nix.md#-nix--interplanetary-file-system)
