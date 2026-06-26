@@ -18,6 +18,7 @@ We've built a lot of applications in Haskell, and along the way we've contribute
 * [obelisk-browser-extension-example](https://github.com/obsidiansystems/obelisk-browser-extension-example): Use obelisk to run a browser-extension simulator and development environment
 
 ## 🏗️ Infrastructure & Tools
+* [style.hs](https://github.com/obsidiansystems/style.hs): Our Haskell style guide and automation to implement it across projects
 * [reflex-platform](https://github.com/reflex-frp/reflex-platform/): Nix tooling to build multi-platform Haskell apps
 * [reflex-ghci](https://github.com/reflex-frp/reflex-ghci): Run GHCi from within a Reflex FRP application and interact with it using a functional reactive interface.
 * [gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
